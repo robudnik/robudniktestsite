@@ -1,4 +1,4 @@
 # robudniktestsite
 test site
 
-[Page 1](../Page1.md)
+[Link to Page 1](https://robudnik.github.io/robudniktestsite/Page1)
